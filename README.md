@@ -19,7 +19,7 @@ El código desarrolla un *pipeline* completo de análisis microeconómico utiliz
 * **Entorno:** Jupyter Notebook
 * **Metodología:** Regresión Logística
 
-* ## Links a los datos
+* ## 📊 Links a las bases de datos
 * **Base de hogares:** https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engho2018_hogares.zip
 * **Base de personas:** https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engho2018_personas.zip
 * **Basse réplicas:** https://www.indec.gob.ar/ftp/cuadros/menusuperior/engho/engho2018_replicas.zip
